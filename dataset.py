@@ -1,5 +1,4 @@
 import numpy as np
-import os
 from os.path import join
 from os import listdir
 from pandas import (
